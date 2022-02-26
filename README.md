@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning random stuff
 - 💞️ I’m looking to collaborate on YT
-- 📫 How to reach me Reddit
+- 📫 How to reach me: Reddit
 
 <!---
 Quiter90/Quiter90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
